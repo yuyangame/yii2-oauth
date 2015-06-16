@@ -1,0 +1,21 @@
+{
+    "name": "yuyangame/yii2-oauth",
+    "description": "yii2-oauth",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","oauth"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "yuyangame",
+            "email": "kangzhq@foxmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yuyangame\\oauth\\": ""
+        }
+    }
+}
